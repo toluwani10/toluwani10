@@ -1,6 +1,6 @@
 ### Hi there 👋
 Nice to meet you
-I am Samuel
+I am Samuel Okikiola Aremu
 I'm a Front end developer
 but still a beginner 😔😉
 
