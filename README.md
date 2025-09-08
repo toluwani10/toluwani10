@@ -33,6 +33,7 @@
 
 ---
 >💡 "Cloud is just someone else’s computer… and I love it." 
+#### I love working on projects involving `Python`, `AWS`, and `Linux`.
 
 <!--
 **toluwani10/toluwani10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
