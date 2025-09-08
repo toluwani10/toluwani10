@@ -27,11 +27,12 @@
 
 ---
 ## 🚀 Let's Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/samuel-aremu-3b37a5292) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-aremu-3b37a5292/)
 - 🐦 [X](https://x.com/Argon_sao)
 - 📧 Email me: **aremusamuelokikiola@gmail.com**  
 
 ---
+>💡 "Cloud is just someone else’s computer… and I love it." 
 
 <!--
 **toluwani10/toluwani10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
