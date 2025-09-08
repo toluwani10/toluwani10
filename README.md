@@ -1,8 +1,37 @@
-### Hi there 👋
-Nice to meet you
-I am Samuel Okikiola Aremu
-I'm a Front end developer
-but still a beginner 😔😉
+# 👋 Hi there, I'm Sam Okiki Aremu 
+### 🚀 Cloud Computing Enthusiast | 💻 Developer | 🌍 Lifelong Learner  
+### 😅 Still figuring out why my code works… but hey, it works!  
+
+
+---
+
+## 🌟 About Me  
+- 🎯 Currently diving deep into **Cloud Computing & DevOps**  
+- 🐧 Linux & Bash scripting on my way to automation mastery  
+- 🛠️ Final year project: AI-powered Health Diagnosis Chatbot  
+- 💡 Fun fact: I talk to my terminal more than I talk to humans sometimes  
+
+---
+## 🛠️ Tech Stack  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>  
+
+---
+## 📊 GitHub Stats  
+![Toluwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=toluwani10&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toluwani10&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=toluwani10&theme=radical)  
+
+---
+## 🚀 Let's Connect  
+- 💼 [LinkedIn](www.linkedin.com/in/samuel-aremu-3b37a5292) 
+- 🐦 [X](https://x.com/Argon_sao)
+- 📧 Email me: **aremusamuelokikiola@gmail.com**  
+
+---
 
 <!--
 **toluwani10/toluwani10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
